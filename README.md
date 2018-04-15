@@ -1,4 +1,4 @@
-Learn Webpack (https://raw.githubusercontent.com/Neetesh971645/learn-webpack/master/learn-wepack.png)
+![Webpack Module Bundler](https://raw.githubusercontent.com/Neetesh971645/learn-webpack/master/learn-wepack.png)
 
 ![What is Webpack](https://github.com/Neetesh971645/learn-webpack)
 
@@ -6,7 +6,7 @@ Learn Webpack (https://raw.githubusercontent.com/Neetesh971645/learn-webpack/mas
 
 > A tutorial on learning [Webpack 2](https://webpack.js.org)
 
-The code for each video in this series can be found under 'releases'. After each video, I create a release of the code at that exact moment in time so you can compare yours to mine and check for errors. If you are just beginning this tutorial, you should download the [Start Here](https://github.com/Neetesh971645/learn-webpack) release and follow along.
+The code link for each topics in this series can be found in the PPT. After each topic, I create a repo of the code at that exact moment in time so you can compare yours to mine and check for errors. If you are just beginning this tutorial, you should download the [Start Here](https://github.com/Neetesh971645/learn-webpack) release and follow along.
 
 # Useful Links
 
